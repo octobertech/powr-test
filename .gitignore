@@ -1,0 +1,4 @@
+.idea
+node_modules
+powr-test-react/node_modules
+powr-test-node/node_modules
